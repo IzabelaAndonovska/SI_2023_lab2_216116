@@ -2,4 +2,4 @@
 Изабела Андоновска 216116
 
 CONTROL FLOW GRAPH
-![cfg image](CFG.png)
+
